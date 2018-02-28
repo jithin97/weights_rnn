@@ -1,0 +1,6 @@
+model_checkpoint_path: "model_gs-21895"
+all_model_checkpoint_paths: "model_gs-10086"
+all_model_checkpoint_paths: "model_gs-11773"
+all_model_checkpoint_paths: "model_gs-13460"
+all_model_checkpoint_paths: "model_gs-16834"
+all_model_checkpoint_paths: "model_gs-21895"
