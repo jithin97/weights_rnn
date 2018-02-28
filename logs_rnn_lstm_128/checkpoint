@@ -1,0 +1,6 @@
+model_checkpoint_path: "model_gs-40402"
+all_model_checkpoint_paths: "model_gs-16784"
+all_model_checkpoint_paths: "model_gs-20158"
+all_model_checkpoint_paths: "model_gs-25219"
+all_model_checkpoint_paths: "model_gs-31967"
+all_model_checkpoint_paths: "model_gs-40402"
